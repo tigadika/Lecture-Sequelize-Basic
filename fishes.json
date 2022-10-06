@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Tamtam",
+    "type": "Cupang",
+    "weight": 150,
+    "color": "Black"
+  },
+  {
+    "id": 2,
+    "name": "Nemu",
+    "type": "Clownfish",
+    "weight": 100,
+    "color": "Orange"
+  },
+  {
+    "id": 3,
+    "name": "Blublu",
+    "type": "Cupang",
+    "weight": 150,
+    "color": "Blue"
+  },
+  {
+    "id": 4,
+    "name": "Acong",
+    "type": "Louhan",
+    "weight": 80,
+    "color": "Red"
+  }
+]
